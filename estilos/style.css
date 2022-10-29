@@ -16,6 +16,10 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
 }
 
+div {
+    text-align: center;
+  }
+
 h1 {
     font-size: 2em;
     color: rgb(58, 0, 112);
@@ -28,6 +32,11 @@ h2 {
 
 img.lado {
     float: right;
+}
+
+img.foto1 {
+    max-block-size: 130px;
+    width: 130px;
 }
 
 a {
